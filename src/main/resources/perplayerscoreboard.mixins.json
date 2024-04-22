@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "me.maartin0.PerPlayerScoreboard.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "CommandManagerMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
